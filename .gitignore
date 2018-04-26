@@ -28,3 +28,4 @@ incremental_db/README
 *.done
 *.rpt
 *.summary
+*.nvd
